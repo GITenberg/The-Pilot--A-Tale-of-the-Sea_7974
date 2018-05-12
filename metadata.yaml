@@ -1,5 +1,8 @@
 _repo: The-Pilot--A-Tale-of-the-Sea_7974
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -16,6 +19,8 @@ description: "The Pilot: A Tale of the Sea is a historical novel by James Fenimo
   \ Cooper, first published in January 1824 (the earliest edition is actually dated\
   \ 1823). Its subject is the life of a naval pilot during the American Revolution.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7974#The-Pilot--A-Tale-of-the-Sea
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
